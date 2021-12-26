@@ -19,7 +19,7 @@ const useStyles = makeStyles(
       height: "100vh",
       position: "fixed",
       paddingRight: "2em",
-      overflowY: "auto",
+      //overflowY: "auto",
     },
     logo: {
       margin: `36px 0 ${theme.spacing(3)} ${theme.spacing(3.5)}`,
